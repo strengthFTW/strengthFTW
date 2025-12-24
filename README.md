@@ -1,12 +1,26 @@
+Hey there! 👋
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshpashikantii@gmail.com) 
+I’m Ritesh, a computer science student specializing in AI & ML, based in Hyderabad, India.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=strengthFTW&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=strengthFTW&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=strengthFTW&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I design and build practical projects across web, AI, and data.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+If an idea clicks, I usually turn it into a working project and push it to GitHub.
+
+My main tech stack is Python, JavaScript, React / Next.js, and Tailwind CSS.
+My favorite tools are VS Code, GitHub, and Figma.
+
+I’ve worked on multiple frontend, AI, and academic projects, with a focus on clean UI and real-world logic.
+
+One of my favorite projects is Calisthenix, a gamified fitness web app.
+
+I actively build and experiment with new ideas while improving my DSA and problem-solving skills.
+
+If you want to explore my work, my portfolio and repositories are available here.
+
+Fun Facts:
+
+I enjoy anime and going to the gym
+
+I like building things more than just learning theory
+
+I prefer learning by doing
