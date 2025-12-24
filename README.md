@@ -19,8 +19,6 @@ If you want to explore my work, my portfolio and repositories are available here
 
 Fun Facts:
 
-I enjoy anime and going to the gym
-
-I like building things more than just learning theory
-
-I prefer learning by doing
+• I enjoy anime and going to the gym
+• I like building things more than just learning theory
+• I prefer learning by doing
