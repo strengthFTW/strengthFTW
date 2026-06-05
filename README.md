@@ -43,26 +43,37 @@ learning:
 ```
 
 
+
 <h2 align="center">⚡ Tech Arsenal</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,docker,kubernetes,vscode&perline=8" />
+<h3>💻 Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql&perline=3" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
+<h3>🤖 AI & ML</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" />
 </p>
 
-<p align="center">
-  <sub>
-    MediaPipe • MLflow • ArgoCD • NLP • REST APIs • Automation Workflows
-  </sub>
+<p>
+  <code>MediaPipe</code>
 </p>
 
----
+<h3>🛠️ DevOps & Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode&perline=5" />
+</p>
+
+<p>
+  <code>MLflow</code>
+  <code>ArgoCD</code>
+</p>
 
 
