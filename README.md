@@ -16,16 +16,35 @@
 ---
 
 ##Current Focus
+<table>
+<tr>
+
+<td width="60%">
 
 ```yaml
 building:
-  - Game Feature Prioritization engine
+  - Game Feature Prioritization Engine
 
 learning:
   - AI Engineering
   - System Design
   - Better Frontend Architecture
 ```
+
+</td>
+
+<td width="40%">
+
+```text
+      /\_/\\
+     ( o.o )
+      > ^ <
+```
+
+</td>
+
+</tr>
+</table>
 
 
 
