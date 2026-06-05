@@ -43,53 +43,41 @@ learning:
 ```
 
 
+<h2 align="center">Tech Stack</h2>
 
-
-<h2 align="center">⚡ Tech Arsenal</h2>
-
-<table align="center">
+<div align="center">
+<table>
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-### Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql&perline=3" />
 
 </td>
 
-<td width="20"></td>
+<td align="center" width="33%">
 
-<td align="center">
+**Development**
 
-### AI & ML
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" />
-
-<br>
-
-<sub>MediaPipe</sub>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flask&perline=5" />
 
 </td>
 
-<td width="20"></td>
+<td align="center" width="33%">
 
-<td align="center">
+**DevOps & Tools**
 
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode&perline=5" />
-
-<br>
-
-<sub>MLflow • ArgoCD</sub>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,figma&perline=4" />
 
 </td>
 
 </tr>
 </table>
+</div>
+
+---
+
 
 
