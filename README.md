@@ -1,4 +1,3 @@
-<img width="280" height="113" alt="image" src="https://github.com/user-attachments/assets/c5c88824-0b3f-497f-a9e7-d8f9fbd9ac8b" /><p align="center">
   <img src="https://gitgarden-production.up.railway.app/api/sprite/1c162dd4-55c0-43e4-8011-b6a5205c81e3" width="100%" alt="Banner GIF"/>
 </p>
 <!-- Intro -->
