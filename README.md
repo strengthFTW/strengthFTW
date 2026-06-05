@@ -43,36 +43,33 @@ learning:
 ```
 
 
+
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
 <table>
 <tr>
-
 <td align="center" width="33%">
 
-**Languages**
+**☁️ Cloud & Infra**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql&perline=3" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,terraform&perline=5" />
 
 </td>
-
 <td align="center" width="33%">
 
-**Development**
+**💻 Languages & Dev**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flask&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,c,bash,js,html&perline=5" />
 
 </td>
-
 <td align="center" width="33%">
 
-**DevOps & Tools**
+**🔧 DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,figma&perline=4" />
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,linux,vscode&perline=5" />
 
 </td>
-
 </tr>
 </table>
 </div>
