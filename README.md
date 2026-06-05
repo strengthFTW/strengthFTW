@@ -13,7 +13,7 @@
   Turning ideas into projects, one commit at a time.
 </p>
 
----
+
 
 <h2>Current Focus</h2>
 ````html
@@ -37,22 +37,14 @@ learning:
 <td width="50%" valign="top">
 
 ```diff
-+      .--.
-+     |o_o |
-+     |:_/ |
-+    //   \\
-+   (|     | )
-+  /'\_   _/`\
-+  \___)=(___/
-+
-+  status: online
+
 ```
 
 </td>
 
 </tr>
 </table>
-```
+
 
 
 
