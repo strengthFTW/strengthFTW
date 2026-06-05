@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Current Focus
+##Current Focus
 
 ```yaml
 building:
