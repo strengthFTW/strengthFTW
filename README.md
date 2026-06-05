@@ -42,54 +42,49 @@ learning:
   - Better Frontend Architecture
 ```
 
-<h2 align="center">⚡ What I Build With</h2>
+<h2 align="center">⚡ Tech Arsenal</h2>
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
 
-**🧠 Intelligence**
+**🤖 AI & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python&perline=5" />
 
 <br>
 
-`Scikit-Learn`
-`OpenCV`
-`NLP`
-`Pandas`
+`Pandas` `NumPy` `Scikit-Learn` `OpenCV` `MediaPipe`
 
 </td>
 
 <td align="center" width="33%">
 
-**🏗️ Systems**
+**⚙️ Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,docker&perline=4" />
 
 <br>
 
-`REST APIs`
-`ML Pipelines`
-`Automation`
+`REST APIs` `NLP` `SQL`
 
 </td>
 
 <td align="center" width="33%">
 
-**🛠️ Daily Drivers**
+**☁️ DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,kubernetes,vscode&perline=4" />
 
 <br>
 
-`MLflow`
-`ArgoCD`
-`Jupyter`
+`MLflow` `ArgoCD` `Jupyter`
 
 </td>
 
 </tr>
 </table>
 </div>
+
+---
