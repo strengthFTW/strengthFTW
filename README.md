@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/strengthFTW/strengthFTW/blob/main/mario.gif?raw=ture" width="100%" alt="Banner GIF"/>
+  <img src="https://github.com/strengthFTW/strengthFTW/blob/main/mario_banner.gif?raw=ture" width="100%" alt="Banner GIF"/>
 </p>
 
 <h1 align="center">Hi, I'm Ritesh 👋</h1>
