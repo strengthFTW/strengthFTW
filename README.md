@@ -15,14 +15,14 @@
 
 ---
 
-<h2>🚀 Current Focus</h2>
-
-<table width="100%">
+<h2>Current Focus</h2>
+````html
+<table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-<pre>
+```yaml
 building:
   - Game Feature Prioritization Engine
 
@@ -30,22 +30,30 @@ learning:
   - AI Engineering
   - System Design
   - Better Frontend Architecture
-</pre>
+````
 
 </td>
 
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
-<pre>
-      /\_/\\
-     ( o.o )
-      > ^ <
-</pre>
+```diff
++      .--.
++     |o_o |
++     |:_/ |
++    //   \\
++   (|     | )
++  /'\_   _/`\
++  \___)=(___/
++
++  status: online
+```
 
 </td>
 
 </tr>
 </table>
+```
+
 
 
 
