@@ -34,48 +34,13 @@
 
 ```yaml
 building:
-  - Scriptoria
+  - Game Feature Prioritization engine
 
 learning:
   - AI Engineering
   - System Design
   - Better Frontend Architecture
-
-exploring:
-  - Product Development
-  - UI/UX Design
-
-goal:
-  Build products people genuinely enjoy using
-⭐ Featured Projects
-✍️ Scriptoria
-
-AI-powered writing assistant built with React, Flask, Supabase and Groq.
-
-🌐 Portfolio Website
-
-Personal portfolio showcasing projects, experience and certifications.
-
-💪 Calisthenics Quest
-
-Gamified fitness progression platform with XP, missions and skill unlocks.
-
-💻 Developer Snapshot
-ritesh@github:~$ whoami
-
-Name:
-Ritesh
-
-Approach:
-Build first, learn along the way.
-
-Interests:
-- Creating products
-- Designing interfaces
-- Solving problems
-
-Current Status:
-Turning ideas into projects.
+```
 🛠 Tech Stack
 📊 GitHub Stats
 🎯 Philosophy
