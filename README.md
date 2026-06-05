@@ -69,7 +69,7 @@ learning:
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,figma&perline=4" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,figma&perline=4" />
 
 </td>
 
