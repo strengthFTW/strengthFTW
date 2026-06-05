@@ -52,17 +52,17 @@ learning:
 
 <td align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql&perline=3" />
 
 </td>
 
-<td width="40"></td>
+<td width="20"></td>
 
 <td align="center">
 
-### 🤖 AI & ML
+### AI & ML
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" />
@@ -75,11 +75,11 @@ learning:
 
 </td>
 
-<td width="40"></td>
+<td width="20"></td>
 
 <td align="center">
 
-### 🛠️ DevOps
+### DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode&perline=5" />
 
