@@ -53,7 +53,7 @@ learning:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql&perline=3" />
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql&perline=3" />
 
 </td>
 
@@ -69,7 +69,7 @@ learning:
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,figma&perline=4" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,figma&perline=4" />
 
 </td>
 
