@@ -15,7 +15,7 @@
 <td width="50%" valign="top">
 
 <pre>
-~/current-focus
+
 
 $ building
   └─ Game Feature Prioritization Engine
