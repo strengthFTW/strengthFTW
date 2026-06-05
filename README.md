@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/strengthFTW/strengthFTW/blob/main/mario_banner.gif?raw=true" width="100%" alt="Banner GIF"/>
 </p>
-
+![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/1c162dd4-55c0-43e4-8011-b6a5205c81e3)
 <!-- Intro -->
 <h1 align="center">Hi, I'm Ritesh 👋</h1>
 
