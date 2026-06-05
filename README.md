@@ -42,49 +42,61 @@ learning:
   - Better Frontend Architecture
 ```
 
-<h2 align="center">⚡ Tech Arsenal</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 <table>
 <tr>
+
 <td align="center" width="33%">
 
-**🤖 AI & Machine Learning**
+### AI & ML
 
-<img src="https://skillicons.dev/icons?i=python&perline=5" />
+<img src="https://skillicons.dev/icons?i=python&perline=1" />
 
 <br>
 
-`Pandas` `NumPy` `Scikit-Learn` `OpenCV` `MediaPipe`
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/NLP-412991?style=flat-square">
 
 </td>
 
 <td align="center" width="33%">
 
-**⚙️ Backend & Data**
+### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,docker&perline=4" />
 
-<br>
-
-`REST APIs` `NLP` `SQL`
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
+<img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square">
 
 </td>
 
 <td align="center" width="33%">
 
-**☁️ DevOps & Tools**
+### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,kubernetes,vscode&perline=4" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode&perline=5" />
 
 <br>
 
-`MLflow` `ArgoCD` `Jupyter`
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square">
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 
 </td>
 
 </tr>
 </table>
 </div>
+
+---
 
 ---
