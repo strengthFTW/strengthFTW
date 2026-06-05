@@ -51,23 +51,23 @@ learning:
 <tr>
 <td align="center" width="33%">
 
-**☁️ Cloud & Infra**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,terraform&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,java,c,bash,mysql&perline=5" />
 
 </td>
 <td align="center" width="33%">
 
-**💻 Languages & Dev**
+**Development**
 
-<img src="https://skillicons.dev/icons?i=python,c,bash,js,html&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flask&perline=5" />
 
 </td>
 <td align="center" width="33%">
 
 **🔧 DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=jenkins,git,github,linux,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,figma&perline=5" />
 
 </td>
 </tr>
