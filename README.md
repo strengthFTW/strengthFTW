@@ -42,7 +42,7 @@ learning:
   - Better Frontend Architecture
 ```
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">⚡ Tech Arsenal</h2>
 
 <div align="center">
 <table>
@@ -50,53 +50,41 @@ learning:
 
 <td align="center" width="33%">
 
-### AI & ML
+### 🤖 AI & ML
 
-<img src="https://skillicons.dev/icons?i=python&perline=1" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square">
-<img src="https://img.shields.io/badge/NLP-412991?style=flat-square">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
 
 </td>
 
 <td align="center" width="33%">
 
-### Backend & Data
+### ⚙️ Backend & Data
 
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
-<img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
 
 </td>
 
 <td align="center" width="33%">
 
-### DevOps & Tools
+### 🛠️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode&perline=5" />
-
-<br>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square">
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
 
 </td>
 
 </tr>
 </table>
 </div>
-
----
 
 ---
