@@ -41,11 +41,55 @@ learning:
   - System Design
   - Better Frontend Architecture
 ```
-🛠 Tech Stack
-📊 GitHub Stats
-🎯 Philosophy
-Build.
-Learn.
-Improve.
 
-Repeat.
+<h2 align="center">⚡ What I Build With</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🧠 Intelligence**
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+`Scikit-Learn`
+`OpenCV`
+`NLP`
+`Pandas`
+
+</td>
+
+<td align="center" width="33%">
+
+**🏗️ Systems**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,mysql" />
+
+<br>
+
+`REST APIs`
+`ML Pipelines`
+`Automation`
+
+</td>
+
+<td align="center" width="33%">
+
+**🛠️ Daily Drivers**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br>
+
+`MLflow`
+`ArgoCD`
+`Jupyter`
+
+</td>
+
+</tr>
+</table>
+</div>
