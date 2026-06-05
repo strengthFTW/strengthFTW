@@ -12,6 +12,7 @@
 <p align="center">
   Turning ideas into projects, one commit at a time.
 </p>
+### 🧭 Who am I?
 
 ```yaml
 name: Thirumalesh Pinninti
@@ -55,22 +56,7 @@ fun_fact: "I deploy personal AI assistants
 
 ---
 
-</td>
-
-<td width="50%" valign="top">
-
-```diff
-
-```
-
-</td>
-
-</tr>
-</table>
-
-
-
-
+<!--TechStack-->
 
 <h2 align="center">Tech Stack</h2>
 
