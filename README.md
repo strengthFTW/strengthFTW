@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/strengthFTW/strengthFTW/blob/main/mario_banner.gif?raw=ture" width="100%" alt="Banner GIF"/>
+  <img src="https://github.com/strengthFTW/strengthFTW/blob/main/mario_banner.gif?raw=true" width="100%" alt="Banner GIF"/>
 </p>
 
 <!-- Intro -->
@@ -9,11 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Building+Things+on+the+Internet" />
 </p>
 
-<p align="center">
-  Turning ideas into projects, one commit at a time.
-</p>
 
-```md
 ## 🚀 Current Focus
 
 <table>
@@ -51,7 +47,7 @@ currently:
 </td>
 </tr>
 </table>
-```
+
 
 
 
