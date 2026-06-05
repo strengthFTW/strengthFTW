@@ -13,21 +13,6 @@
   Turning ideas into projects, one commit at a time.
 </p>
 
-<!-- Quick Links -->
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge">
-  </a>
-
-  <a href="YOUR_RESUME_URL">
-    <img src="https://img.shields.io/badge/Resume-View-000?style=for-the-badge">
-  </a>
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
 ---
 
 ## 🚀 Current Focus
