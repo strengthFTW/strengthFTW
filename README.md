@@ -16,16 +16,18 @@
 <td width="50%" valign="top">
 
 <pre>
-building:
-  - Game Feature Prioritization Engine
+~/current-focus
 
-learning:
-  - AI Engineering
-  - System Design
-  - Better Frontend Architecture
+$ building
+  └─ Game Feature Prioritization Engine
 
-status:
-  - Building Things on the Internet
+$ learning
+  ├─ AI Engineering
+  ├─ System Design
+  └─ Better Frontend Architecture
+
+$ status
+  └─ Building Things on the Internet
 </pre>
 
 </td>
@@ -33,18 +35,17 @@ status:
 <td width="50%" valign="top">
 
 <pre>
-██╗     ███████╗██╗   ██╗███████╗██╗         ██╗   ██╗██████╗ 
-██║     ██╔════╝██║   ██║██╔════╝██║         ██║   ██║██╔══██╗
-██║     █████╗  ██║   ██║█████╗  ██║         ██║   ██║██████╔╝
-██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║         ██║   ██║██╔═══╝ 
-███████╗███████╗ ╚████╔╝ ███████╗███████╗    ╚██████╔╝██║     
-╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝     ╚═════╝ ╚═╝     
+██╗     ███████╗██╗   ██╗███████╗██╗              ██╗   ██╗██████╗
+██║     ██╔════╝██║   ██║██╔════╝██║              ██║   ██║██╔══██╗
+██║     █████╗  ██║   ██║█████╗  ██║              ██║   ██║██████╔╝
+██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║              ██║   ██║██╔═══╝
+███████╗███████╗ ╚████╔╝ ███████╗███████╗         ╚██████╔╝██║
+╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝          ╚═════╝ ╚═╝
 </pre>
 
 </td>
 </tr>
 </table>
-
 
 
 
