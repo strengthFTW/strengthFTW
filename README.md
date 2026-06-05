@@ -13,13 +13,14 @@
   Turning ideas into projects, one commit at a time.
 </p>
 
-````html
+```md
+## 🚀 Current Focus
+
 <table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="50%" valign="top">
-
-```yaml
+<pre>
 building:
   - Game Feature Prioritization Engine
 
@@ -30,28 +31,29 @@ learning:
 
 status:
   - Building Things on the Internet
-````
+</pre>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-```diff
-+      /\_/\\
-+     ( o.o )
-+      > ^ <
-+
-+  currently:
-+    coding
-+    learning
-+    shipping
-```
+<pre>
+      /\_/\\
+     ( o.o )
+      > ^ <
+
+currently:
+  coding
+  learning
+  shipping
+</pre>
 
 </td>
-
 </tr>
 </table>
 ```
+
+
 
 
 <!--TechStack-->
