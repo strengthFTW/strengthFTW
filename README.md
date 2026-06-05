@@ -47,40 +47,43 @@ learning:
 
 <h2 align="center">⚡ Tech Arsenal</h2>
 
-<div align="center">
-<table>
+<table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
 
-### Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql&perline=3" />
 
 </td>
 
-<td align="center" width="33%">
+<td width="40"></td>
 
-### AI & ML
+<td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
+### 🤖 AI & ML
 
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" />
+
+<br>
 
 <sub>MediaPipe</sub>
 
 </td>
 
-<td align="center" width="33%">
+<td width="40"></td>
 
-### DevOps & Tools
+<td align="center">
+
+### 🛠️ DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode&perline=5" />
 
-<br><br>
+<br>
 
 <sub>MLflow • ArgoCD</sub>
 
@@ -88,10 +91,5 @@ learning:
 
 </tr>
 </table>
-</div>
-
-  <code>MLflow</code>
-  <code>ArgoCD</code>
-</p>
 
 
