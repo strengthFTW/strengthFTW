@@ -1,4 +1,4 @@
-  <img src="Git_Banner.jpg" width="100%" alt="Banner GIF"/>
+  <img src="Git_Banner1.jpg" width="100%" alt="Banner GIF"/>
 </p>
 <!-- Intro -->
 <h1 align="center">Hi, I'm Ritesh 👋</h1>
