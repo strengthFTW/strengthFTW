@@ -1,4 +1,4 @@
-  <img src="https://gitgarden-production.up.railway.app/api/sprite/1c162dd4-55c0-43e4-8011-b6a5205c81e3" width="100%" alt="Banner GIF"/>
+  <img src="Git_Banner.jpg" width="100%" alt="Banner GIF"/>
 </p>
 <!-- Intro -->
 <h1 align="center">Hi, I'm Ritesh 👋</h1>
